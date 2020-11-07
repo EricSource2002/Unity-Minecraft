@@ -1,0 +1,43 @@
+{
+    "blocks": [
+        {
+            "block": "grass",
+            "tiles": [
+                "grass_top",
+                "grass_side",
+                "dirt"
+            ]
+        },
+        {
+            "block": "dirt",
+            "tiles": [
+                "dirt"
+            ]
+        },
+        {
+            "block": "stone",
+            "tiles": [
+                "stone"
+            ]
+        },
+        {
+            "block": "sand",
+            "tiles": [
+                "sand"
+            ]
+        },
+        {
+            "block": "log_oak",
+            "tiles": [
+                "log_oak_top",
+                "log_oak"
+            ]
+        },
+        {
+            "block": "leaves_oak",
+            "tiles": [
+                "leaves_oak"
+            ]
+        }
+    ]
+}

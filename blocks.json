@@ -1,0 +1,20 @@
+{
+    "grass":{
+     "tiles":["grass_top", "grass_side", "dirt"]
+    },
+    "dirt":{
+    "tiles":["dirt"]
+    },
+    "stone":{
+     "tiles":["stone"]
+    },
+    "sand":{
+        "tiles":["sand"]
+    },
+    "log_oak":{
+        "tiles": ["log_oak_top", "log_oak"]
+    },
+    "leaves_oak":{
+        "tiles": ["leaves_oak"]
+    }
+}
